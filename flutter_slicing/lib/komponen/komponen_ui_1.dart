@@ -12,7 +12,7 @@ class KomponenUi1 extends StatelessWidget {
       width: 90,
       decoration: BoxDecoration(
         borderRadius: BorderRadius.circular(15),
-        border: Border.all(color: Colors.red, width: 2),
+        border: Border.all(color: Colors.lightBlue, width: 2),
         color: Colors.white,
       ),
       child: Column(
